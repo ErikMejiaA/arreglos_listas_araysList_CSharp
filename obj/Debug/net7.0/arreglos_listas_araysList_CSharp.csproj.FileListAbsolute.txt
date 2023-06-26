@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\arreglos_listas_araysList_CSharp\bin\Debug\net7.0\arreglos_listas_araysList_CSharp.exe
+C:\Users\Usuario\Desktop\arreglos_listas_araysList_CSharp\bin\Debug\net7.0\arreglos_listas_araysList_CSharp.deps.json
+C:\Users\Usuario\Desktop\arreglos_listas_araysList_CSharp\bin\Debug\net7.0\arreglos_listas_araysList_CSharp.runtimeconfig.json
+C:\Users\Usuario\Desktop\arreglos_listas_araysList_CSharp\bin\Debug\net7.0\arreglos_listas_araysList_CSharp.dll
+C:\Users\Usuario\Desktop\arreglos_listas_araysList_CSharp\bin\Debug\net7.0\arreglos_listas_araysList_CSharp.pdb
+C:\Users\Usuario\Desktop\arreglos_listas_araysList_CSharp\obj\Debug\net7.0\arreglos_listas_araysList_CSharp.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\arreglos_listas_araysList_CSharp\obj\Debug\net7.0\arreglos_listas_araysList_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\arreglos_listas_araysList_CSharp\obj\Debug\net7.0\arreglos_listas_araysList_CSharp.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\arreglos_listas_araysList_CSharp\obj\Debug\net7.0\arreglos_listas_araysList_CSharp.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\arreglos_listas_araysList_CSharp\obj\Debug\net7.0\arreglos_listas_araysList_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\arreglos_listas_araysList_CSharp\obj\Debug\net7.0\arreglos_listas_araysList_CSharp.dll
+C:\Users\Usuario\Desktop\arreglos_listas_araysList_CSharp\obj\Debug\net7.0\refint\arreglos_listas_araysList_CSharp.dll
+C:\Users\Usuario\Desktop\arreglos_listas_araysList_CSharp\obj\Debug\net7.0\arreglos_listas_araysList_CSharp.pdb
+C:\Users\Usuario\Desktop\arreglos_listas_araysList_CSharp\obj\Debug\net7.0\arreglos_listas_araysList_CSharp.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\arreglos_listas_araysList_CSharp\obj\Debug\net7.0\ref\arreglos_listas_araysList_CSharp.dll
